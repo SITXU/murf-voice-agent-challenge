@@ -1,4 +1,5 @@
 import logging
+from barista_agent import BaristaAgent
 
 from dotenv import load_dotenv
 from livekit.agents import (
@@ -123,10 +124,9 @@ async def entrypoint(ctx: JobContext):
 
     # Start the session, which initializes the voice pipeline and warms up the models
     await session.start(
-        agent=Assistant(),
+        agent=BaristaAgent(),   # 👈 use the coffee barista here
         room=ctx.room,
         room_input_options=RoomInputOptions(
-            # For telephony applications, use `BVCTelephony` for best results
             noise_cancellation=noise_cancellation.BVC(),
         ),
     )
