@@ -1,0 +1,38 @@
+{
+  "company_name": "Ola",
+  "overview": "Ola is India's largest ride-hailing and mobility platform offering cabs, autos, bikes, rental and outstation rides, as well as electric vehicles and corporate travel solutions.",
+  "faq": [
+    {
+      "q": "What does Ola do?",
+      "a": "Ola provides on-demand transportation through cabs, autos, bikes, rental packages, and outstation rides. Users can book rides via the Ola app in hundreds of cities across India."
+    },
+    {
+      "q": "What types of rides do you have?",
+      "a": "Ola offers categories like Micro, Mini, Prime Sedan, Prime SUV, Auto, Moto, Rentals for hourly packages, and Outstation for intercity travel."
+    },
+    {
+      "q": "What are Ola's prices?",
+      "a": "Pricing varies based on city, category, distance and time. The app always shows transparent upfront fares before booking."
+    },
+    {
+      "q": "Do you have electric vehicles?",
+      "a": "Yes, Ola Electric offers S1 series scooters. Ola also deploys EVs for cabs in certain cities."
+    },
+    {
+      "q": "Do you support corporate travel?",
+      "a": "Yes, Ola Corporate allows companies to manage employee travel using policy controls, analytics and centralized billing."
+    },
+    {
+      "q": "Does Ola operate 24/7?",
+      "a": "Yes, Ola supports 24/7 ride booking depending on driver availability."
+    },
+    {
+      "q": "Which cities are you available in?",
+      "a": "Ola operates in 250+ Indian cities."
+    },
+    {
+      "q": "How to become an Ola driver?",
+      "a": "Drivers can join Ola Fleet by registering on the app or visiting a partner center with license, RC, Aadhaar and insurance."
+    }
+  ]
+}
